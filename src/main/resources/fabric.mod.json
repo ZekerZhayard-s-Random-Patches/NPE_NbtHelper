@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "id": "npe_nbthelper",
+    "version": "${version}",
+    "name": "NPE_NbtHelper",
+    "description": "",
+    "authors": ["ZekerZhayard"],
+    "contact": {},
+    "license": "All-Rights-Reserved",
+    "environment": "*",
+    "entrypoints": {},
+    "mixins": [
+        "npe_nbthelper.mixins.json"
+    ]
+}

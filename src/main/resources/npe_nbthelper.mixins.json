@@ -1,0 +1,10 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "io.github.zekerzhayard.npe_nbthelper.mixin",
+    "compatibilityLevel": "JAVA_16",
+    "mixins": [
+        "MixinNbtHelper"
+    ],
+    "plugin": "io.github.zekerzhayard.npe_nbthelper.MixinConfigPlugin"
+}
